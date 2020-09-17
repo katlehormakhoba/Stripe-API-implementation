@@ -14,6 +14,7 @@ export const makePayment = async () => {
       sessionId: session.data.session.id
     });
 
+    //  stripe.redirectToCheckout({ sessionId: session.data.session.id });
   } catch (err) {
     console.log(err);
     showAlert('error', err);
