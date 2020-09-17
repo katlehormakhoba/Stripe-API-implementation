@@ -37,7 +37,7 @@ to setup this project, run the following commands on your terminal
 
 ## Authors
 
-* **Katleho R. Makhoba** - *Up & comming Software Developer* - [katleho-del](https://github.com/katleho-del)
+* **Katleho R. Makhoba** - *Up & comming Software Developer* - [Katleho R. Makhoba](http://katlehormakhoba.com)
 
 
 ## License
