@@ -25,14 +25,14 @@ to setup this project, run the following commands on your terminal
 2.2 On "STRIPE_SECRETE_KEY" variable equate it to your stripe secrete key
 
 3 Navigate to folder public/js , and open stripe file
-3.1 On the second line "const stripe = Stripe('...')" variable equate the ('...') to your stripe publishable key
+3.1 On the second line "const stripe = Stripe('...')" variable, replace the ellipsis with your stripe publishable key
 
 4. Open your terminal. NB you should be under project directory `Stripejs`
 4.1 install neccesary packages, modules `npm i`
 
 5. to run the project `npm start`
 
-6. using you browser navigate to this default url of `http://localhost:3000/checkout` to start testing
+6. using your browser navigate to this default url of `http://localhost:3000/checkout` to start testing
 ```
 
 ## Authors
