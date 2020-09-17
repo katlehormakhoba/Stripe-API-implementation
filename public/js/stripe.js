@@ -1,5 +1,5 @@
 import axios from 'axios';
-const stripe = Stripe(`...`);
+const stripe = Stripe(`pk_test_51HOZR1BUM2e9J3qBTox7wFVmgFHvhb1lFtqOthxhpcKDrGCpVZf2pNUtuHI081RA2NJaasWNGmybIC9Z5dH225Pm00CQhcptCT`);
 
 export const makePayment = async () => {
   try {
