@@ -24,7 +24,7 @@ to setup this project, run the following commands on your terminal
 2.1 Navigate to .env file
 2.2 On "STRIPE_SECRETE_KEY" variable equate it to your stripe secrete key
 
-3 Navigate to folder public/js , and open stripe file
+3 Navigate to folder public/js , and open stripe.js file
 3.1 On the second line "const stripe = Stripe('...')" variable, replace the ellipsis with your stripe publishable key
 
 4. Open your terminal. NB you should be under project directory `Stripejs`
