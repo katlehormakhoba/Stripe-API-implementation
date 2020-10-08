@@ -18,7 +18,7 @@ What you will need to install/run the application and how to install
 ## Setup and run
 to setup this project, run the following commands on your terminal
 ```bash
-1. navigate to the project directory `cd Stripejs`
+1. navigate to the project directory `cd Stripe-API-implementation`
 
 2. Get your test API key from your stripe account "Secrete and Publishable keys"
 2.1 Navigate to .env file
@@ -37,7 +37,7 @@ to setup this project, run the following commands on your terminal
 
 ## Authors
 
-* **Katleho R. Makhoba** - *Up & comming Software Developer* - [Katleho R. Makhoba](http://katlehormakhoba.com)
+* **Katleho R. Makhoba** - *Upcoming Software Developer* - [Katleho R. Makhoba](http://katlehormakhoba.com)
 
 
 ## License
